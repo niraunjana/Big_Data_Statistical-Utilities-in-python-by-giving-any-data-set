@@ -11,13 +11,13 @@ To implement and demonstrate statistical utility functions in Python using a giv
 2. Required libraries:
 
 
-numpy for numerical operations
+-- numpy for numerical operations
 
 
-pandas for data handling
+-- pandas for data handling
 
 
-scipy.stats for statistical functions
+-- scipy.stats for statistical functions
 
 
 3. Jupyter Notebook, Google Colab, or any Python IDE
